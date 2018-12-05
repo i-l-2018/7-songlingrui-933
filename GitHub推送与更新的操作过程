@@ -1,1 +1,2 @@
-
+GUI分为四个区域，分为工作区，暂存区，本地仓库，远程仓库.1）鼠标点击（工作区 - 暂存区）2.commit + push（本地仓库 - 远程仓库）
+Remote + fetch from（远程 - 本地）Merge + local merge（本地 - 工作）
